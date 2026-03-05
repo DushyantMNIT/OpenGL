@@ -1,3 +1,5 @@
 # OpenGL
-This is a repository with all my OpenGL learning codes
-I am iron man.
+<br>
+Here we collab for OpenGL discussions and to learn computer graphics!
+<br>
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
